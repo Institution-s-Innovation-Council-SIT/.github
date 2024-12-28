@@ -1,6 +1,8 @@
 # Institution's Innovation Council-SIT Open Source Community
 
-![IIC SIT Open Source](https://github.com/Institution-s-Innovation-Council-SIT/.github/blob/main/images/logoiic.jpeg)
+<p align="center">
+  <img src="https://github.com/Institution-s-Innovation-Council-SIT/.github/blob/main/images/iiclogo-background_clear.png" width="200"/>
+</p>
 
 Welcome to the **Institution's Innovation Council-SIT Open Source Community**!  
 We are a dynamic and inclusive group of passionate innovators, creators, and developers at **Siddaganga Institute of Technology** (SIT). Together, we aim to bring about change through open-source projects, making technology more accessible and impactful for the world.
@@ -78,4 +80,3 @@ Thank you for being part of the **IIC-SIT Open Source Community**. Let’s innov
 ---
 
 *Together, we create the future! 🌍✨*
-
